@@ -1,1 +1,3 @@
-# algorithm
+# algorithmの勉強
+
+#
